@@ -1,0 +1,20 @@
+{
+  "trading": {
+    "mode": "live",
+    "margin_per_trade_pct": 3,
+    "max_total_margin_usdt": 2,
+    "cash_reserve_usdt": 0.25,
+    "cost_buffer_pct": 5,
+    "leverage": 1,
+    "max_positions": 1,
+    "poll_seconds": 10,
+    "reentry_cooldown_seconds": 300,
+    "max_wallet_balance_usdt": 2,
+    "max_entry_attempts": 1,
+    "strategy": "trend",
+    "exit_mode": "margin_roi",
+    "take_profit_pct": 25,
+    "stop_loss_pct": 10,
+    "exit_slippage_bps": 3
+  }
+}

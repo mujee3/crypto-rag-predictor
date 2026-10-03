@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+pandas>=2.2,<3
+certifi>=2024.8.30
+openai>=2.54,<3
+pydantic>=2.13,<3
